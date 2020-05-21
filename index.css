@@ -1,0 +1,459 @@
+a {
+  text-decoration: none;
+}
+
+* {
+  margin: auto;
+}
+
+li {
+  list-style: none;
+}
+
+.top {
+  width: 100%;
+  height: auto;
+  background-color: #120f11;
+}
+
+.top1 {
+  height: 90px;
+  margin: auto;
+  width: 1400px;
+}
+
+.topbar {
+  float: left;
+}
+
+.topbar ul {
+  float: left;
+}
+
+.topbar li {
+  float: left;
+  margin-right: 40px;
+  line-height: 90px;
+}
+
+.topbar li a {
+  color: white;
+  font-family: serif;
+  font-size: 18px;
+}
+
+.bar:hover {
+  border-bottom: 1px solid white;
+}
+
+.reslogo img {
+  height: 70px;
+  margin-top: 10px;
+}
+
+.reslogo {
+  height: 90px;
+}
+
+.tel{
+  height: 70px;
+  margin-top: 10px;
+  border: 1px solid #c9c9c4;
+  border-radius: 2px;
+}
+
+
+.top2 {
+  height: 700px;
+  width: 100%;
+  text-align: center;
+  position: relative;
+  background-color: #120f11;
+}
+
+.slider img {
+  width: 100%;
+  height: 650px;
+  border: none;
+}
+
+.commitment {
+  width: 100%;
+  height: 850px;
+  padding-top: 30px;
+  background-color: #120f11;
+}
+
+.commitmentmain {
+  width: 1200px;
+  height: 700px;
+  margin: auto;
+  color: white;
+}
+
+.commitmentmain h1 {
+  text-align: center;
+}
+
+.commitmentmainright img{
+border-radius:;
+width: 850px;
+height: 600px;
+margin-top: 60px;
+position:absolute;
+top: 950px;
+left: 500px;
+}
+
+.commitmentmainleft {
+  float: left;
+  background-color: #f6fbf6;
+  opacity: 0.5;
+  position: absolute;
+  top: 850px;
+  left: 100px;
+  width: 500px;
+  height: 400px;
+  z-index: 10;
+}
+
+.commitmentmainleft2 {
+  float: left;
+  background-color: #f6fbf6;
+  opacity: 0.8;
+  position: absolute;
+  top: 870px;
+  left: 90px;
+  width: 500px;
+  height: 400px;
+  transform: rotate(-15deg);
+}
+
+.commitmentmainleft p {
+  font-size: 20px;
+  color: #120f11;
+  z-index: 100;
+  display: inline-block;
+  padding-top: 50px;
+  margin: 20px;
+  margin-left: 40px;
+}
+
+.commitmentlogo {
+  position: absolute;
+  top: 800px;
+  left: 800px;
+  margin-left: 50px;
+}
+
+.recommend_popular {
+  width: 100%;
+  background-image: ;
+  background-repeat: no-repeat;
+  padding-top: 50px;
+}
+
+.recommend_popularmain {
+  width: 1200px;
+  margin: auto;
+  text-align: center;
+}
+
+.recommendboxes, .popularboxes {
+  width: 1200px;
+  height: 350px;
+  margin-left: 20px;
+}
+
+.recommendboxes {
+  margin-top: 40px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #c9c9c4;
+}
+
+.recommendbox .fas, .popularbox .fas {
+  color: red;
+}
+
+.popularboxes {
+  margin-top: 30px;
+}
+
+
+.recommendbox, .popularbox {
+  float: left;
+  width: 30%;
+  margin-right: 40px;
+  font-size: 25px;
+  font-family: 'Noto Serif JP', serif;
+}
+
+.recommendbox img, .popularbox img {
+  width: 350px;
+  height: 250px;
+}
+
+.popularlogo {
+  padding-top: 40px;
+}
+
+.othermenusbutton {
+  font-size: 30px;
+  color: black;
+  background-color: white;
+}
+
+.othermenus {
+  padding-bottom: 50px;
+  height: 50px;
+  margin-top: 40px;
+}
+
+.othermenus .fas {
+  padding: 0 10px;
+}
+
+.underline {
+  background:rgba(0, 0, 0, 0) linear-gradient(transparent 80%,  #CC0000 0%);
+  opacity: 0.8;
+  border-radius: 2px;
+}
+
+.course {
+  width:100%;
+  background-color: #120f11;
+  height: 805px;
+  text-align: center;
+}
+
+.price img  {
+  width: 500px;
+  height: 100px;
+  position: absolute;
+  top: 10px;
+  left: 50px;
+}
+
+.coursemain {
+  margin: auto;
+  text-align: center;
+  color: white;
+  padding-top: 30px;
+}
+
+.courseback img {
+  width: 100%;
+  height: 700px;
+  opacity: 0.9;
+}
+
+.coursedetail {
+  width: 1400px;
+  text-align: center;
+  margin: auto;
+  margin-left: 20px;
+  margin-top: 70px;
+  background-color: #f6fbf6;
+  opacity: 0.8;
+  position: absolute;
+  top: 3000px;
+  left: 0px;
+}
+
+.detail span {
+  color: red;
+  font-size: 40px;
+  text-shadow : 2px 0px 2px #120f11;
+  text-align: center;
+  margin-right: 70px;
+}
+
+.detail {
+  float: left;
+  width: 33%;
+  background-color: white;
+  height: 500px;
+  color: red;
+}
+
+.detail h2 {
+  font-size: 40px;
+  color: #120f11;
+  text-align: center;
+}
+
+.detail img {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  top: 10px;
+  left: 550px;
+}
+
+.coursetxt {
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.detail p {
+  font-size: 18px;
+  color: #120f11;
+  text-align: center;
+  display: inline-block;
+  padding-left: 30px;
+}
+
+.detailborder {
+  border-left: 1px solid #120f11;
+  border-right: 1px solid #120f11;
+}
+
+.detailborder h2 {
+  padding-left: 50px;
+}
+
+.detail .fas {
+  margin-right: 20px;
+}
+
+.access {
+  width: 100%;
+  position: relative;
+}
+
+.accessback {
+  background-color: #120f11;
+  height: 500px;
+  width: 100%;
+  position: absolute;
+  top: -90px;
+  opacity: 0.2;
+}
+
+.accessmain {
+  width: 1200px;
+  text-align: center;
+  margin: auto;
+  height: 500px;
+  z-index: 11;
+}
+
+.accessleft {
+  float: left;
+  margin-top: -50px;
+}
+
+.accessright p {
+  font-size: 20px;
+  margin-left: 100px;
+  display: inline-block;
+}
+
+.accessright {
+  margin-top: 200px;
+  text-align: left;
+}
+
+.accesslogo {
+  position: absolute;
+  top: -170px;
+  left: 580px;
+}
+
+.info {
+  width: 100%;
+  position: relative;
+}
+
+.infomain {
+  margin: auto;
+  height: 700px;
+  background-color: #120f11;
+  color: white;
+}
+
+.infodetail {
+  text-align: left;
+  border-bottom: 1px solid #f6f6f6;
+}
+
+.infodetail img {
+  margin-top: 30px;
+  height: 80px;
+  margin-left: 80px;
+  margin-bottom: 30px;
+}
+
+.infodetailcontents {
+  color: white;
+  font-size: 20px;
+  margin-left: 50px;
+  text-align: left;
+  margin-top: 70px;
+  width: 700px;
+  float: left;
+}
+
+dt {
+  float: left;
+  margin-right: 50px;
+  width: 150px;
+}
+
+dd::before {
+  content: "|";
+}
+
+.infodetailcontents span {
+  margin-right: 70px;
+}
+
+.infodetailcontents2 img {
+  width: 365px;
+  height: 110px;
+  position: absolute;
+  top: 450px;
+  left: 950px;
+}
+
+.line {
+  position: absolute;
+  top: 250px;
+  left: 950px;
+  border-radius: 3px;
+}
+
+#page_top{
+ width: 50px;
+ height: 50px;
+ position: fixed;
+ right: 20px;
+ bottom: 5px;
+ background: #f6f6f6; /*ボタンの色*/
+ opacity: 0.6;
+ border-radius: 50%; /*角の丸み*/
+ border: 3px solid #120f11;
+ }
+ #page_top a{
+ position: relative;
+ display: block;
+ width: 50px;
+ height: 50px;
+ text-decoration: none;
+ }
+ #page_top a::before{
+ font-family: "Font Awesome 5 Free";
+ content: "\f102"; /*アイコン*/
+ font-weight: 900;
+ font-size: 25px;
+ color: #e60012; /*アイコンの色*/
+ position: absolute;
+ width: 25px;
+ height: 25px;
+ top: 0;
+ bottom: 0;
+ right: 0;
+ left: 0;
+ margin: auto;
+ text-align: center;
+ }
