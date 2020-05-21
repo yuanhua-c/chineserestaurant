@@ -1,0 +1,339 @@
+a {
+  text-decoration: none;
+}
+
+* {
+  margin: auto;
+}
+
+li {
+  list-style: none;
+}
+
+.top {
+  width: 100%;
+  height: auto;
+  background-color: #120f11;
+}
+
+.top1 {
+  height: 90px;
+  margin: auto;
+  width: 1400px;
+}
+
+.topbar {
+  float: left;
+}
+
+.topbar ul {
+  float: left;
+}
+
+.topbar li {
+  float: left;
+  margin-right: 40px;
+  line-height: 90px;
+}
+
+.topbar li a {
+  color: white;
+  font-family: serif;
+  font-size: 18px;
+}
+
+.bar:hover {
+  border-bottom: 1px solid white;
+}
+
+.reslogo img {
+  height: 70px;
+  margin-top: 10px;
+}
+
+.reslogo {
+  height: 90px;
+}
+
+.tel{
+  height: 70px;
+  margin-top: 10px;
+  border: 1px solid #c9c9c4;
+  border-radius: 2px;
+}
+
+.main {
+  width: 100%;
+}
+
+.mainwrapper {
+  width: 1200px;
+  margin: auto;
+  height: 650px;
+  text-align:center;
+}
+
+.mainwrapper p {
+  font-size: 40px;
+  text-align: center;
+  display: inline-block;
+  color: #cc0000;
+  padding-top: 30px;
+  margin-bottom: 60px;
+  padding-left: 150px;
+  padding-right: 150px;
+  font-weight: bold;
+}
+
+.underline2 {
+  background:rgba(0, 0, 0, 0) linear-gradient(transparent 95%,  #120f11 0%);
+  opacity: 0.8;
+  border-radius: 2px;
+}
+
+.menubox {
+  width: 1200px;
+  height: 600px;
+  position: relative;
+  margin-top: 20px;
+}
+
+.menuboxleft {
+  width: 600px;
+  float: left;
+}
+
+.menuboxleft img {
+  width: 650px;
+  height: 450px;
+  margin-left: 50px;
+}
+
+.menuboxright img {
+  width: 300px;
+  height: 150px;
+  position: absolute;
+  top: 300px;
+  left: 750px;
+}
+
+.menuboxright p {
+  color: #120f11;
+  position: absolute;
+  top: 320px;
+  left: 670px;
+  text-align: left;
+}
+
+.menuboxright {
+  height: 600px;
+}
+
+.menulist {
+  background-color: #120f11;
+  color: white;
+  width: 100%;
+  height: 600px;
+  margin-top: 20px;
+}
+
+#chaofan {
+  padding-top: 80px;
+}
+
+.half {
+  width: 500px;
+  float: left;
+  font-size: 22px;
+  margin-top: 50px;
+}
+
+.menulistleft {
+  margin-left: 250px;
+}
+
+.menulistright {
+  margin-left: 80px;
+}
+
+dt {
+  float: left;
+  padding-top: 10px;
+  padding-right: 30px;
+  width: 270px;
+}
+
+dd::before {
+  content: "|";
+  padding-right: 30px;
+}
+
+dd {
+  padding-top: 10px;
+}
+
+.menulist span {
+  padding-left: 70px;
+}
+
+
+.menu_price2 dt {
+  float: left;
+  padding-top: 10px;
+  padding-right: 30px;
+  width: 250px;
+}
+
+.menuboxleft2 img {
+  width: 300px;
+  height: 150px;
+  position: absolute;
+  top: 350px;
+  left: 100px;
+}
+
+.menuboxright2 img {
+  width: 650px;
+  height: 450px;
+  position: absolute;
+  top: 50px;
+  left: 500px;
+}
+
+.menulist2 {
+  margin-top: -50px;
+  background-color: #120f11;
+  color: white;
+  width: 100%;
+  height: 550px;
+}
+
+.menulist2 span {
+  padding-left: 70px;
+}
+
+.menuboxright2 p {
+  color: #120f11;
+  position: absolute;
+  top: 400px;
+  left: 200px;
+  text-align: center;
+  font-size: 40px;
+}
+
+.info {
+  width: 100%;
+  position: relative;
+}
+
+.infomain {
+  margin: auto;
+  height: 750px;
+  background-color: #120f11;
+  color: white;
+}
+
+.infodetail {
+  text-align: left;
+  border-bottom: 1px solid #f6f6f6;
+}
+
+.infodetail img {
+  padding-top: 20px;
+  height: 80px;
+  margin-left: 50px;
+  margin-bottom: 30px;
+}
+
+.infodetailcontents {
+  color: white;
+  font-size: 20px;
+  margin-left: 50px;
+  text-align: left;
+  margin-top: 70px;
+  width: 860px;
+  float: left;
+}
+
+dt {
+  float: left;
+  margin-right: 40px;
+  width: 270px;
+}
+
+.infodetailcontents dt {
+  float: left;
+  margin-right: 40px;
+  width: 120px;
+}
+
+dd::before {
+  content: "|";
+}
+
+.infodetailcontents span {
+  margin-right: 70px;
+}
+
+.infodetailcontents2 img {
+  width: 365px;
+  height: 110px;
+  position: absolute;
+  top: 450px;
+  left: 950px;
+}
+
+.line {
+  position: absolute;
+  top: 250px;
+  left: 950px;
+  border-radius: 3px;
+}
+
+.slider {
+  margin-top: 10px;
+}
+
+.slider img {
+  width: 50%;
+  height: 325px;
+  border-radius: 10px;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+
+#page_top{
+width: 50px;
+height: 50px;
+position: fixed;
+right: 20px;
+bottom: 5px;
+background: #f6f6f6;
+opacity: 0.6;
+border-radius: 50%;
+border: 3px solid #120f11;
+}
+#page_top a{
+position: relative;
+display: block;
+width: 50px;
+height: 50px;
+text-decoration: none;
+}
+#page_top a::before{
+font-family: "Font Awesome 5 Free";
+content: "\f102"; 
+font-weight: 900;
+font-size: 25px;
+color: #e60012;
+position: absolute;
+width: 25px;
+height: 25px;
+top: 0;
+bottom: 0;
+right: 0;
+left: 0;
+margin: auto;
+text-align: center;
+}
