@@ -1,0 +1,204 @@
+@media screen and  (max-width: 1080px)
+{
+
+  a {
+    text-decoration: none;
+  }
+
+  * {
+    margin: auto;
+    overflow: hidden;
+  }
+
+  li {
+    list-style: none;
+  }
+
+.top {
+  width: 100%;
+  background-color: #120f11;
+  margin-right: 0;
+}
+
+.top1 {
+  height: 100px;
+}
+
+.topbar ul {
+  width: 100%;
+  padding-top: 10px;
+}
+
+.bar {
+  display: none;
+}
+
+.topbar li {
+  float: left;
+  margin-right: 20px;
+}
+
+.reslogo {
+  margin-top: 10px;
+}
+
+img.tel {
+  float: right;
+  margin-right: 20px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.top2 {
+  height: 400px;
+}
+
+.slider {
+  padding: 0;
+  height: 390px;
+}
+
+.commitment {
+  width: 100%;
+  background-color: #120f11;
+  color: white;
+  text-align: center;
+  height: 1200px;
+}
+
+.commitmentlogo {
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+.commitmentmainleft p {
+  font-size: 40px;
+  margin-top: 50px;
+  display: inline-block;
+}
+
+.recommend_popular {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.recommendboxes {
+  padding-top: 50px;
+}
+
+.recommendbox{
+  margin-bottom: 30px;
+  margin-left: 50px;
+  height: 300px;
+}
+
+.recommendbox img{
+  width: 40%;
+  margin-left: -100px;
+}
+
+.recommendbox p{
+  font-size: 30px;
+  display: inline-block;
+  line-height: 200px;
+  padding-bottom: 30px;
+}
+
+#recbox3, .popularboxes, #popularboxes{
+  display: none;
+}
+
+
+.recommendbox .fas, .popularbox .fas{
+  display: none;
+}
+
+
+.othermenusbutton {
+  font-size: 50px;
+  color: black;
+  background-color: white;
+}
+
+.othermenus {
+  padding-bottom: 50px;
+  height: 30px;
+  margin-top: 40px;
+}
+
+.othermenus .fas {
+  padding: 0 10px;
+}
+
+.underline {
+  background:rgba(0, 0, 0, 0) linear-gradient(transparent 80%,  #CC0000 0%);
+  opacity: 0.8;
+  border-radius: 2px;
+}
+
+.course {
+  width: 100%;
+  margin-top: 100px;
+  height: 4300px;
+  background-color: #120f11;
+  padding-top: 50px;
+}
+
+.coursemain {
+  text-align: center;
+  color: white;
+}
+
+.courseback img {
+  width: 80%;
+  margin-bottom: 70px;
+  margin-top: 50px;
+}
+
+.detail {
+  border: 1px solid white;
+  width: 80%;
+  margin-bottom: 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 40px;
+}
+
+
+.access {
+  width: 100%;
+  margin-top: 50px;
+}
+
+.accessmain {
+  text-align: center;
+}
+
+.accessright p {
+  font-size: 22px;
+}
+
+.info {
+  width: 100%;
+  margin-top: 80px;
+}
+
+.infomain {
+  background-color: #120f11;
+  height: 2000px;
+  color: white;
+}
+
+.infodetailcontents {
+  font-size: 20px;
+  margin-left: 50px;
+  text-align: left;
+  margin-top: 70px;
+  width: 50%;
+  float: left;
+}
+
+
+
+}
