@@ -192,12 +192,13 @@ img.tel {
 
 .line {
   margin-top: 200px;
+  float: right;
 
 .infodetailcontents {
   font-size: 20px;
-  margin-left: 50px;
+  margin-left: 150px;
   text-align: left;
-  margin-top: 70px;
+  margin-top: 140px;
   width: 50%;
   float: left;
 }
