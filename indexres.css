@@ -186,7 +186,7 @@ img.tel {
 
 .infomain {
   background-color: #120f11;
-  height: 700px;
+  height: 1000px;
   color: white;
 }
 
@@ -196,9 +196,9 @@ img.tel {
 
 .infodetailcontents {
   font-size: 20px;
-  margin-left: 150px;
+  margin-left: 300px;
   text-align: left;
-  margin-top: 140px;
+  margin-top: 200px;
   width: 50%;
   float: left;
 }
