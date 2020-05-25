@@ -192,7 +192,7 @@ img.tel {
 }
 
 .infodetailcontents {
-  font-size: 20px;
+  font-size: 25px;
   margin-left: 300px;
   text-align: left;
   margin-top: 200px;
@@ -207,5 +207,10 @@ img.tel {
 .line {
   display: none
   }
-
+  
+dt {
+  float: left;
+  width: 150px;
+  }
+  
 }
