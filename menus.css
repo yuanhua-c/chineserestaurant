@@ -1,3 +1,7 @@
+@media screen and  (min-width: 1080px)
+{
+
+
 a {
   text-decoration: none;
 }
@@ -309,9 +313,9 @@ height: 50px;
 position: fixed;
 right: 20px;
 bottom: 5px;
-background: #f6f6f6;
+background: #f6f6f6; /*ボタンの色*/
 opacity: 0.6;
-border-radius: 50%;
+border-radius: 50%; /*角の丸み*/
 border: 3px solid #120f11;
 }
 #page_top a{
@@ -323,10 +327,10 @@ text-decoration: none;
 }
 #page_top a::before{
 font-family: "Font Awesome 5 Free";
-content: "\f102"; 
+content: "\f102"; /*アイコン*/
 font-weight: 900;
 font-size: 25px;
-color: #e60012;
+color: #e60012; /*アイコンの色*/
 position: absolute;
 width: 25px;
 height: 25px;
@@ -336,4 +340,6 @@ right: 0;
 left: 0;
 margin: auto;
 text-align: center;
+}
+
 }
