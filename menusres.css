@@ -1,0 +1,304 @@
+@media screen and  (max-width: 1080px)
+{
+
+  a {
+    text-decoration: none;
+  }
+
+  * {
+    margin: auto;
+    overflow: hidden;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  .top {
+    width: 100%;
+    background-color: #120f11;
+    margin-right: 0;
+  }
+
+  .top1 {
+    height: 100px;
+  }
+
+  .topbar ul {
+    width: 100%;
+    padding-top: 10px;
+  }
+
+  .bar {
+    display: none;
+  }
+
+  .reslogo {
+    margin-top: 10px;
+  }
+
+  img.tel {
+    float: right;
+    margin-right: 20px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+  }
+
+  .main {
+    width: 100%;
+  }
+
+  .mainwrapper {
+    margin: auto;
+    height: 650px;
+    text-align:center;
+  }
+
+  .mainwrapper p {
+    font-size: 52px;
+    text-align: center;
+    display: inline-block;
+    color: #cc0000;
+    padding-top: 30px;
+    margin-bottom: 60px;
+    font-weight: bold;
+  }
+
+  .underline2 {
+    background:rgba(0, 0, 0, 0) linear-gradient(transparent 95%,  #120f11 0%);
+    opacity: 0.8;
+    border-radius: 2px;
+  }
+
+  .menubox {
+    width: 90%;
+    height: 600px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .menuboxleft {
+    width: 70%;
+    float: left;
+  }
+
+  .menuboxleft img {
+    width: 550px;
+  }
+
+  .menuboxright {
+    width: 30%;
+    float: right;
+  }
+
+  .menuboxright img {
+    width: 300px;
+    margin-top: 50px;
+  }
+
+  .menuboxright p {
+    color: #120f11;
+    position: absolute;
+    top: 320px;
+    left: 670px;
+    text-align: left;
+  }
+
+  .menulist {
+    background-color: #120f11;
+    color: white;
+    width: 100%;
+    height: 600px;
+    margin-top: 20px;
+  }
+
+  #chaofan {
+    padding-top:
+  }
+
+  img#chaofan {
+    margin-left: 50px;
+    margin-top: 50px;
+  }
+
+  #chaofanname {
+    margin-top: 200px;
+  }
+
+  .menulist3 {
+    margin-top: -100px;
+    height: 550px;
+  }
+
+  .half {
+    width: 50%;
+    float: left;
+    font-size: 22px;
+    margin-top: 50px;
+  }
+
+  dl {
+    margin-left: 20px;
+  }
+
+  dt {
+    float: left;
+    padding-top: 10px;
+    padding-right: 30px;
+    width: 250px;
+  }
+
+  dd::before {
+    content: "|";
+    padding-right: 30px;
+  }
+
+  dd {
+    padding-top: 10px;
+  }
+
+  .menulist span {
+    padding-left: 70px;
+  }
+
+
+  .menu_price2 dt {
+    float: left;
+    padding-top: 10px;
+    padding-right: 30px;
+    width: 250px;
+  }
+
+  .menuboxleft2 img {
+    width: 300px;
+    height: 150px;
+    position: absolute;
+    top: 350px;
+    left: 50px;
+  }
+
+  .menuboxright2 img {
+    width: 550px;
+    position: absolute;
+    top: 50px;
+    left: 400px;
+  }
+
+  .menulist2 {
+    margin-top: -50px;
+    background-color: #120f11;
+    color: white;
+    width: 100%;
+    height: 500px;
+  }
+
+  .menulist2 span {
+    padding-left: 70px;
+  }
+
+  .menuboxright2 p {
+    color: #120f11;
+    position: absolute;
+    top: 400px;
+    left: 200px;
+    text-align: center;
+    font-size: 40px;
+  }
+
+  .info {
+    width: 100%;
+    position: relative;
+  }
+
+  .infomain {
+    margin: auto;
+    height: 750px;
+    background-color: #120f11;
+    color: white;
+  }
+
+  .infodetail {
+    text-align: left;
+    border-bottom: 1px solid #f6f6f6;
+  }
+
+  .infodetail img {
+    padding-top: 20px;
+    height: 80px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    float: left;
+    margin-right: 400px;
+    margin-top: 10px;
+  }
+
+  .infodetailcontents {
+    color: white;
+    font-size: 20px;
+    margin-left: 50px;
+    text-align: left;
+    margin-top: 20px;
+    width: 860px;
+    float: left;
+  }
+
+  dt {
+    float: left;
+    margin-right: 40px;
+    width: 270px;
+  }
+
+  .infodetailcontents dt {
+    float: left;
+    margin-right: 40px;
+    width: 120px;
+  }
+
+  dd::before {
+    content: "|";
+  }
+
+  .infodetailcontents span {
+    margin-right: 70px;
+  }
+
+  .infodetailcontents2 img {
+    width: 365px;
+    height: 110px;
+    position: absolute;
+    top: 450px;
+    left: 950px;
+  }
+
+  .line {
+    position: absolute;
+    top: 250px;
+    left: 950px;
+    border-radius: 3px;
+  }
+
+  .slider {
+    display: none;
+  }
+
+  .bx-wrapper {
+    display: none;
+  }
+
+  .infodetailcontents2 {
+    display: none;
+  }
+
+  .line {
+    display: none;
+  }
+
+  .infodetail {
+    text-align:left;
+  }
+
+
+}
