@@ -188,11 +188,8 @@ img.tel {
   background-color: #120f11;
   height: 1000px;
   color: white;
+  text-align: center;
 }
-
-.line {
-  margin-top: 200px;
-  float: right;
 
 .infodetailcontents {
   font-size: 20px;
@@ -200,7 +197,7 @@ img.tel {
   text-align: left;
   margin-top: 200px;
   width: 50%;
-  float: left;
+  text-align: center;
 }
 
 
