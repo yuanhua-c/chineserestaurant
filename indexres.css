@@ -200,6 +200,12 @@ img.tel {
   text-align: center;
 }
 
+.infodetailcontents2 {
+  display: none;
+}
 
+.line {
+  display: none
+  }
 
 }
